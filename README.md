@@ -21,7 +21,7 @@ You Only Look Once (YOLOv8) is a real-time object detection model that localizes
 
 **YOLOv8 Architecture:**
 
-![YOLOv8 Architecture](path/to/yolov8_image.png)
+![YOLOv8 Architecture](archpics/yoloarchitecture.png)
 
 ### MultiResUNet – Segmentation
 MultiResUNet is an enhanced version of UNet, designed to segment optic discs and blood vessels in retinal images.
@@ -35,7 +35,7 @@ MultiResUNet is an enhanced version of UNet, designed to segment optic discs and
 
 **MultiResUNet Architecture:**
 
-![MultiResUNet Architecture](path/to/multiresunet_image.png)
+![MultiResUNet Architecture](archpics/multiresnetarchitecture.png)
 
 ### ResNet-18 – Classification
 ResNet-18 (Residual Network) is a deep CNN used to classify DR severity levels (Normal, Moderate, Severe).
@@ -49,4 +49,4 @@ ResNet-18 (Residual Network) is a deep CNN used to classify DR severity levels (
 
 **ResNet-18 Architecture:**
 
-![ResNet-18 Architecture](path/to/resnet18_image.png)
+![ResNet-18 Architecture](archpics/resnetarchitecture.png)
